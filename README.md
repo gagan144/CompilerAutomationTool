@@ -152,4 +152,10 @@ Following are the limitations of the project:
 - “Left Factoring”, http://code.google.com/p/blacc/wiki/DesignCommonLeft
 
 
+## Awards
+
+The project was awarded **2nd position** in Inter-College B.Tech Project Competition held at university campus in November-2013.
+Click [here](_Publish/Award_Gagandeep.jpg) for the certificate.
+
+
 ![](_doc/images/Icon_CAT.png)
